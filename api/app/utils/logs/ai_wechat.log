@@ -1,0 +1,8 @@
+【ai_wechat】INFO 2025-03-18 01:32:50 D:\project\ai_wechat\api\app\utils\log.py:67 info
+【ai_wechat】WARNING 2025-03-18 01:32:50 D:\project\ai_wechat\api\app\utils\log.py:68 warning
+【ai_wechat】ERROR 2025-03-18 01:32:50 D:\project\ai_wechat\api\app\utils\log.py:69 error
+【ai_wechat】CRITICAL 2025-03-18 01:32:50 D:\project\ai_wechat\api\app\utils\log.py:70 critical
+【ai_wechat】INFO 2025-03-18 01:38:07 D:\project\ai_wechat\api\app\utils\log.py:67 info
+【ai_wechat】WARNING 2025-03-18 01:38:07 D:\project\ai_wechat\api\app\utils\log.py:68 warning
+【ai_wechat】ERROR 2025-03-18 01:38:07 D:\project\ai_wechat\api\app\utils\log.py:69 error
+【ai_wechat】CRITICAL 2025-03-18 01:38:07 D:\project\ai_wechat\api\app\utils\log.py:70 critical
